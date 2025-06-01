@@ -9,5 +9,4 @@ class Solution:
 def main():
     s = Solution()
     nums = [1, 2, 3, 1]
-    result = s.containsDuplicate(nums)
-    print(result)
+    print(s.containsDuplicate(nums))
